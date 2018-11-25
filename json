@@ -8,8 +8,8 @@
     {
       "name" : "LeBron James",
       "age" : 33,
-      "secretIdentity" : " LeBron KING James",
-      "powers" : [
+      "Nickname" : " LeBron KING James",
+      "honour" : [
         " Champion",
         "FMVP",
         "Top Scorer"
@@ -18,8 +18,8 @@
     {
       "name" : " Carmelo Anthony ",
       "age" : 34,
-      "secretIdentity" : " Melon",
-      "powers" : [
+      "Nickname" : " Melon",
+      "honour" : [
         "Platinum generation outstanding representative",
         "Top Scorer",
         "All-Star"
@@ -28,8 +28,8 @@
     {
       "name" : "Dwyane Wade",
       "age" : 36,
-      "secretIdentity" : "The Flash",
-      "powers" : [
+      "Nickname" : "The Flash",
+      "honour" : [
         "",
         "FMVP",
         "Euro Step",
