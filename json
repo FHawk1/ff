@@ -1,0 +1,41 @@
+{
+  "squadName" : "Hall of Fame",
+  "homeTown" : "America",
+  "formed" : 1959,
+  "secretBase" : "Connecticut east coast",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "LeBron James",
+      "age" : 33,
+      "secretIdentity" : " LeBron KING James",
+      "powers" : [
+        " Champion",
+        "FMVP",
+        "Top Scorer"
+      ]
+    },
+    {
+      "name" : " Carmelo Anthony ",
+      "age" : 34,
+      "secretIdentity" : " Melon",
+      "powers" : [
+        "Platinum generation outstanding representative",
+        "Top Scorer",
+        "All-Star"
+      ]
+    },
+    {
+      "name" : "Dwyane Wade",
+      "age" : 36,
+      "secretIdentity" : "The Flash",
+      "powers" : [
+        "",
+        "FMVP",
+        "Euro Step",
+        "All-Star MVP",
+        "Most Power",
+      ]
+    }
+  ]
+}
