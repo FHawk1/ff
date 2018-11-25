@@ -4,12 +4,13 @@
   "formed" : 1959,
   "secretBase" : "Connecticut east coast",
   "active" : true,
-  "members" : [
+  "members" :
+  [
     {
       "name" : "LeBron James",
       "age" : 33,
-      "secretIdentity" : " LeBron KING James",
-      "powers" : [
+      "nickname" : " LeBron KING James",
+      "honor" : [
         " Champion",
         "FMVP",
         "Top Scorer"
@@ -18,8 +19,8 @@
     {
       "name" : " Carmelo Anthony ",
       "age" : 34,
-      "secretIdentity" : " Melon",
-      "powers" : [
+      "nickname" : " Melon",
+      "honor" : [
         "Platinum generation outstanding representative",
         "Top Scorer",
         "All-Star"
@@ -28,8 +29,8 @@
     {
       "name" : "Dwyane Wade",
       "age" : 36,
-      "secretIdentity" : "The Flash",
-      "powers" : [
+      "nickname" : "The Flash",
+      "honor" : [
         "Fastest speed",
         "FMVP",
         "Euro Step",
